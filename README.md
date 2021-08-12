@@ -1,2 +1,1 @@
-# DataViz
-Data visualisation projects with open-source data
+This is my professional website
