@@ -161,7 +161,7 @@
 		    	$('.js-colorlib-nav-toggle').removeClass('active');
 		    }
 
-		    event.preventDefault();
+// 		    event.preventDefault();
 		    return false;
 		});
 
